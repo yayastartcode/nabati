@@ -18,7 +18,7 @@ const Hero = () => {
           <p className="text-lg md:text-xl text-white mb-8">
             Minyak sawit berkualitas premium dan produk turunannya, solusi
             terbaik untuk kebutuhan usaha kuliner dan industri Anda, bersama PT
-            Singosari Gulden Sejahtera.
+            Prima Nabati Nusantara.
           </p>
           <a
             href="https://api.whatsapp.com/send?phone=6289679392263&text=Hallo+PT%20Prima%20Nabati%20Nusantara"
