@@ -10,7 +10,7 @@ const Products = () => {
     {
       id: 2,
       name: "CPO 10 (Crude Palm Oil FFA ≤ 10%)",
-      image: "/images/cp10.jpeg",
+      image: "/images/cp10oil.jpeg",
       description:
         "CPO 10 adalah minyak sawit mentah dengan kadar Free Fatty Acid (FFA) maksimal 10%, memiliki..",
     },
@@ -75,7 +75,7 @@ const Products = () => {
                   {product.description}
                 </p>
                 <a
-                  href={`https://api.whatsapp.com/send?phone=62881010718595&text=Hallo+PT%20Singosari%20Gulden%20Sejahtera,+saya+mau+Konsultasi+${encodeURIComponent(
+                  href={`https://api.whatsapp.com/send?phone=6289679392263&text=Hallo+PT%20Prima%20Nabati%20Nusantara,+saya+mau+Konsultasi+${encodeURIComponent(
                     product.name
                   )}`}
                   className="block w-full text-center btn-whatsapp"

@@ -1,7 +1,7 @@
 const WhatsAppFloat = () => {
   return (
     <a 
-      href="https://api.whatsapp.com/send?phone=62881010718595&text=Hallo+PT%20Singosari%20Gulden%20Sejahtera"
+      href="https://api.whatsapp.com/send?phone=6289679392263&text=Hallo+PT%20Prima%20Nabati%20Nusantara"
       className="fixed bottom-8 right-8 z-50 group"
       target="_blank"
       rel="noopener noreferrer"

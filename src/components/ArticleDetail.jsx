@@ -152,7 +152,7 @@ const ArticleDetail = () => {
               <h3 className="text-2xl font-bold mb-4">Butuh Informasi Lebih Lanjut?</h3>
               <p className="mb-6">Hubungi kami untuk konsultasi produk dan layanan terbaik</p>
               <a 
-                href="https://api.whatsapp.com/send?phone=62881010718595&text=Hallo+PT%20Singosari%20Gulden%20Sejahtera"
+                href="https://api.whatsapp.com/send?phone=6289679392263&text=Hallo+PT%20Prima%20Nabati%20Nusantara"
                 className="inline-block btn-whatsapp"
                 target="_blank"
                 rel="noopener noreferrer"

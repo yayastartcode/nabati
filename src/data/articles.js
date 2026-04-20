@@ -6,7 +6,7 @@ export const articles = [
     image: "/images/1397180478_merek-minyak-goreng-4.webp",
     excerpt:
       "Minyak goreng adalah salah satu bahan pokok yang digunakan sehari-hari dalam memasak. Pemilihan minyak goreng yang berkualitas sangat penting untuk menjaga kesehatan tubuh.",
-    author: "PT Singosari Gulden Sejahtera",
+    author: "PT Prima Nabati Nusantara",
     date: "15 Desember 2025",
     readTime: "5 min",
     content: `
@@ -42,7 +42,7 @@ export const articles = [
       </ul>
 
       <h3>Rekomendasi Produk</h3>
-      <p>PT Singosari Gulden Sejahtera menyediakan minyak goreng berkualitas premium yang telah melalui proses pemurnian standar internasional. Produk kami memiliki kadar FFA rendah, warna jernih, dan aman untuk kesehatan keluarga Anda.</p>
+      <p>PT Prima Nabati Nusantara menyediakan minyak goreng berkualitas premium yang telah melalui proses pemurnian standar internasional. Produk kami memiliki kadar FFA rendah, warna jernih, dan aman untuk kesehatan keluarga Anda.</p>
 
       <p><strong>Kesimpulan:</strong> Memilih minyak goreng berkualitas adalah investasi untuk kesehatan jangka panjang. Jangan hanya mempertimbangkan harga, tetapi perhatikan juga kualitas dan standar keamanan produk yang Anda gunakan.</p>
     `,
@@ -55,7 +55,7 @@ export const articles = [
     image: "/images/908494444_rrrr.jpg",
     excerpt:
       "Crude Palm Oil (CPO) adalah minyak mentah yang diekstrak dari buah kelapa sawit. CPO merupakan bahan baku utama dalam berbagai industri, mulai dari makanan hingga kosmetik.",
-    author: "PT Singosari Gulden Sejahtera",
+    author: "PT Prima Nabati Nusantara",
     date: "12 Desember 2025",
     readTime: "6 min",
     content: `
@@ -135,7 +135,7 @@ export const articles = [
         <li><strong>Iodine Value</strong> - 50-55</li>
       </ul>
 
-      <h3>PT Singosari Gulden Sejahtera sebagai Distributor CPO</h3>
+      <h3>PT Prima Nabati Nusantara sebagai Distributor CPO</h3>
       <p>Kami menyediakan CPO berkualitas tinggi dengan standar internasional. Produk kami telah memenuhi semua parameter kualitas dan tersedia dalam berbagai spesifikasi sesuai kebutuhan industri Anda.</p>
 
       <p><strong>Kesimpulan:</strong> CPO adalah komoditas strategis yang memiliki peran vital dalam berbagai industri. Dengan produksi yang efisien dan aplikasi yang luas, CPO menjadi pilihan utama sebagai bahan baku industri global.</p>
@@ -149,7 +149,7 @@ export const articles = [
     image: "/images/704998742_1689261677__images - 2023-07-13T231737.014.jpeg",
     excerpt:
       "PFAD (Palm Fatty Acid Distillate) adalah produk sampingan dari proses pemurnian minyak sawit yang memiliki nilai ekonomi tinggi dan aplikasi luas dalam industri.",
-    author: "PT Singosari Gulden Sejahtera",
+    author: "PT Prima Nabati Nusantara",
     date: "10 Desember 2025",
     readTime: "5 min",
     content: `
@@ -248,7 +248,7 @@ export const articles = [
         <li>Melting Point: 38-50°C</li>
       </ul>
 
-      <h3>PT Singosari Gulden Sejahtera - Pemasok PFAD Berkualitas</h3>
+      <h3>PT Prima Nabati Nusantara - Pemasok PFAD Berkualitas</h3>
       <p>Kami menyediakan PFAD dengan spesifikasi standar industri untuk kebutuhan sabun, biodiesel, dan aplikasi oleokimia lainnya. Produk kami bersumber dari refinery terpercaya dengan konsistensi kualitas yang terjaga.</p>
 
       <p><strong>Kesimpulan:</strong> PFAD adalah contoh nyata dari ekonomi sirkular dalam industri minyak sawit. Produk sampingan yang dulunya kurang dimanfaatkan, kini menjadi bahan baku strategis dalam industri sabun dan biodiesel, memberikan nilai tambah ekonomi sambil mendukung keberlanjutan lingkungan.</p>

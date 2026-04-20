@@ -2,12 +2,11 @@ import { useState, useEffect, useCallback } from "react";
 
 const Gallery = () => {
   const mediaItems = [
-    "/images/sck1.jpeg",
-    "/images/sck2.jpeg",
-    "/images/cp10.jpeg",
-    "/images/cp810.jpeg",
-    "/images/sck3.mp4",
-    "/images/sck4.mp4",
+    "/images/pnngale1.jpeg",
+    "/images/pnngale2.jpeg",
+    "/images/pnngale3.jpeg",
+    "/images/pnngale4.jpeg",
+    "/images/pnngale5.jpeg",
   ];
 
   const [lightboxOpen, setLightboxOpen] = useState(false);

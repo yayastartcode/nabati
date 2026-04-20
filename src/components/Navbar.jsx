@@ -10,8 +10,8 @@ const Navbar = () => {
           {/* Logo */}
           <a href="/" className="flex items-center py-1">
             <img
-              src="/images/sgslg.png"
-              alt="PT Singosari Gulden Sejahtera"
+              src="/images/pnnlg.png"
+              alt="PT Prima Nabati Nusantara"
               className="h-12 sm:h-14 lg:h-16 xl:h-20 w-auto object-contain drop-shadow-[0_0_2px_#fff]"
             />
           </a>

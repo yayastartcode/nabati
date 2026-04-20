@@ -4,31 +4,31 @@ const Testimonials = () => {
       id: 1,
       name: "Bu Dina",
       date: "24 November 2025",
-      text: "Minyak goreng dari PT Singosari Gulden Sejahtera kualitasnya sangat stabil, nggak mudah hitam meski dipakai berkali-kali. Masakan saya jadi lebih wangi dan renyah. Pelayanan timnya juga cepat dan responsif banget.",
+      text: "Minyak goreng dari PT Prima Nabati Nusantara kualitasnya sangat stabil, nggak mudah hitam meski dipakai berkali-kali. Masakan saya jadi lebih wangi dan renyah. Pelayanan timnya juga cepat dan responsif banget.",
     },
     {
       id: 2,
       name: "Pak Andang",
       date: "03 September 2025",
-      text: "Sejak pakai Minyak Goreng Kita dari PT Singosari Gulden Sejahtera, pelanggan saya bilang gorengan jadi lebih renyah dan nggak cepat hitam. Selain kualitas bagus, harganya juga bersahabat buat usaha kecil kayak saya. Pasti langganan terus!",
+      text: "Sejak pakai Minyak Goreng Kita dari PT Prima Nabati Nusantara, pelanggan saya bilang gorengan jadi lebih renyah dan nggak cepat hitam. Selain kualitas bagus, harganya juga bersahabat buat usaha kecil kayak saya. Pasti langganan terus!",
     },
     {
       id: 3,
       name: "Pak Maman",
       date: "17 November 2025",
-      text: "Kami rutin beli CPO 10 untuk kebutuhan refining, dan selama ini barang dari PT Singosari Gulden Sejahtera selalu sesuai spesifikasi, dokumen lengkap, dan pengiriman tepat waktu. Sangat direkomendasikan sebagai supplier sawit terpercaya.",
+      text: "Kami rutin beli CPO 10 untuk kebutuhan refining, dan selama ini barang dari PT Prima Nabati Nusantara selalu sesuai spesifikasi, dokumen lengkap, dan pengiriman tepat waktu. Sangat direkomendasikan sebagai supplier sawit terpercaya.",
     },
     {
       id: 4,
       name: "Bu Sinta",
       date: "19 Oktober 2025",
-      text: "Stok Minyak Goreng Kita dari PT Singosari Gulden Sejahtera selalu aman. Harganya bersaing dan pengiriman cepat. Ditambah ada kemasan rumah tangga dan industri, jadi lebih mudah saya jual ke berbagai segmen pasar.",
+      text: "Stok Minyak Goreng Kita dari PT Prima Nabati Nusantara selalu aman. Harganya bersaing dan pengiriman cepat. Ditambah ada kemasan rumah tangga dan industri, jadi lebih mudah saya jual ke berbagai segmen pasar.",
     },
     {
       id: 5,
       name: "Pak Tri",
       date: "07 Oktober 2025",
-      text: "PFAD dari PT Singosari Gulden Sejahtera kualitasnya bagus, kadar FFA-nya sesuai standar dan cocok untuk produksi sabun. Harga juga lebih stabil dibanding supplier lain. Senang bisa kerja sama terus sampai sekarang.",
+      text: "PFAD dari PT Prima Nabati Nusantara kualitasnya bagus, kadar FFA-nya sesuai standar dan cocok untuk produksi sabun. Harga juga lebih stabil dibanding supplier lain. Senang bisa kerja sama terus sampai sekarang.",
     },
   ];
 
