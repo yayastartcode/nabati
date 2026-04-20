@@ -4,7 +4,7 @@ const Hero = () => {
       {/* Background Image */}
       <div
         className="absolute inset-0 bg-cover bg-center animate-hero-zoom"
-        style={{ backgroundImage: "url(/images/herobege.png)" }}
+        style={{ backgroundImage: "url(/images/palm-oil.webp)" }}
       >
         <div className="absolute inset-0 bg-black/50"></div>
       </div>
